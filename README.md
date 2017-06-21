@@ -1,8 +1,6 @@
 # BluetoothGame
 
-> This is an demo project. Only for testing out direct bluetooth connection between two android devices using the bluetooth protocol. 
-
-#This was a project in the class "CSC463 - Wireless and Mobile Communication" at the University of Victoria, Canada
+> This is an demo project. Only for testing out direct bluetooth connection between two android devices using the bluetooth protocol. This was a project in the class "CSC463 - Wireless and Mobile Communication" at the University of Victoria, Canada
 Fall Term 2015
 
 ## Usage
