@@ -10,7 +10,7 @@ After connecting two android devices, the ball is moving through the upper borde
 
 ## Authors
 
-Hassen Kassim, Alexander Brummer
+Hassen Kassim, Alexander Brummer, Maher Bouidani
 
 ## License
 
